@@ -50,4 +50,5 @@ steps:
     with:
       name: ContactBatch-debug-apk
       path: extracted/app/build/outputs/apk/debug/app-debug.apk
-      if-no-files-found: error￼Enter
+      if-no-files-found: error
+
